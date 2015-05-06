@@ -1,7 +1,8 @@
-search_term: "#thatcampuc"
-number_of_results: 200
+search_term: "#hottestcollegeinamerica"
+number_of_results: 2000
 
 fields:
+  - id
   - text
   - created_at
 
